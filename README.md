@@ -1,0 +1,2 @@
+# sides
+Capitalist Communist Game
